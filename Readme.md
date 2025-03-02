@@ -14,8 +14,8 @@
 
 ## 🛠️ Installation  
 1. Clone the repo:  
-   ```bash  
-   git clone https://github.com/Aoudumber-Bade/3D-Cube-Image-Animation.git
+   ```bash
+   https://github.com/abhishek-maurya576/3D_love.git
 
 2. Open index.html in your browser.
 🎮 Usage  
@@ -57,7 +57,7 @@ MIT License – do whatever, just credit me if you clone it for your crush.
 *Tag me if you remix this!*  
 
 🚀 **Star this repo if you’d code this for someone!**  
-🔗 **Live Demo:** [https://3d-cube-dev.netlify.app/](https://3d-cube-dev.netlify.app/)  
+🔗 **Live Demo:** [Click here](https://abhishek-maurya576.github.io/3D_love/)
 
 ---
 
